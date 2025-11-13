@@ -14,6 +14,10 @@ Instructions:
 
 - [reverse_linked.md](/linked_lists/singly_linked_lists/206_reverse_linked_lists/reverse_linked.md)
 
+Notes:
+
+- [NOTES.md](/linked_lists/singly_linked_lists/206_reverse_linked_lists/NOTES.md)
+
 Solution:
 
 - [reverse_linked.py](/linked_lists/singly_linked_lists/206_reverse_linked_lists/reverse_linked.py)
