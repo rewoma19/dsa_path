@@ -21,3 +21,21 @@ Notes:
 Solution:
 
 - [reverse_linked.py](/linked_lists/singly_linked_lists/206_reverse_linked_lists/reverse_linked.py)
+
+## Day 2: Linked Lists
+
+    NOTE: This challenge is in Neetcode 150
+
+### [Leetcode 21: Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+Instructions:
+
+- [reverse_linked.md](/linked_lists/singly_linked_lists/21_merge_two_sorted_lists/merge_two_sorted.md)
+
+Notes:
+
+- [NOTES.md](/linked_lists/singly_linked_lists/21_merge_two_sorted_lists/NOTES.md)
+
+Solution:
+
+- [merge_two_sorted.py](/linked_lists/singly_linked_lists/21_merge_two_sorted_lists/merge_two_sorted.py)
