@@ -39,3 +39,21 @@ Notes:
 Solution:
 
 - [merge_two_sorted.py](/linked_lists/singly_linked_lists/21_merge_two_sorted_lists/merge_two_sorted.py)
+
+## Day 3: Stacks
+
+    NOTE: This challenge is in Neetcode 150
+
+### [Leetcode 20: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+
+Instructions:
+
+- [valid_parens.md](/stacks/20_valid_parentheses/valid_parens.md)
+
+Notes:
+
+- [NOTES.md](/stacks/20_valid_parentheses/NOTES.md)
+
+Solution:
+
+- [valid_parens.py](/stacks/20_valid_parentheses/valid_parens.py)
